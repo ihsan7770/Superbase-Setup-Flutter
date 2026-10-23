@@ -1,1 +1,1 @@
-# Superbase-Setup-Flutter
+# How to Setup Superbase in Flutter
