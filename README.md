@@ -47,11 +47,11 @@ Open your Supabase project settings and copy your Project URL and publishable AP
 
 Run this command in your Flutter project terminal:
 
-```bash
+
 flutter pub add supabase_flutter
 
 
-```bash
+
 ## Step 6: Initialize Supabase in Flutter
 
 Open `lib/main.dart` in Visual Studio Code and initialize Supabase using your project credentials.
