@@ -49,3 +49,11 @@ Run this command in your Flutter project terminal:
 
 ```bash
 flutter pub add supabase_flutter
+---
+## Step 6: Initialize Supabase in Flutter
+![Get Project URL and API Key](https://github.com/ihsan7770/Superbase-Setup-Flutter/blob/d2f3541b03dcf65576911938a0a5dea410c64115/superbase/add%20url.png)
+
+
+
+
+
